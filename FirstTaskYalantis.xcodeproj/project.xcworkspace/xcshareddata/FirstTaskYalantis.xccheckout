@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CEF09402-2E5F-401E-91AD-CB5AD97A1D52</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FirstTaskYalantis</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>58C62D1E79B70D6D117D693634DCE783B963874E</key>
+		<string>bitbucket.org:NikitaMinakov/firsttaskyalantis.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FirstTaskYalantis.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>58C62D1E79B70D6D117D693634DCE783B963874E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>bitbucket.org:NikitaMinakov/firsttaskyalantis.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>58C62D1E79B70D6D117D693634DCE783B963874E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>58C62D1E79B70D6D117D693634DCE783B963874E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>FirstTaskYalantis</string>
+		</dict>
+	</array>
+</dict>
+</plist>
